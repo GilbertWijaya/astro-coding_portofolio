@@ -7,7 +7,7 @@ const PorContactPage = () => {
     return (
         <>
             
-            <DashboardComp />
+            {/* <DashboardComp /> */}
             <PortofolioComp />           
             <ContactComp /> 
         

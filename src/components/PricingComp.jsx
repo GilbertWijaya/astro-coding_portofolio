@@ -15,7 +15,7 @@ const tiers = [
 //   },
   {
     no:1,
-    name: 'Promotion',
+    name: 'Frontend',
     id: 'tier-enterprise',
     href: '#',
     priceMonthly: 'IDR 200.000',
